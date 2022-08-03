@@ -1,35 +1,20 @@
 {
-  "name": "POLYEGG #2",
-  "description": "Polymorphed Egg is the first Egg NFT collectible on Terra blockchain. Every unique Egg has specific attributes that define It's rarity.",
-  "image": "image/2.png",
-  "dna": "31068bc3095b0f55cb99bb43f189ee7ace00d3ed",
-  "edition": 2,
-  "date": 1650052515262,
+  "name": "Number #0003",
+  "symbol": "NB",
+  "description": "Collection of 10 numbers on the blockchain. This is the number 3/10.",
+  "image": "2.png",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Times"
-    },
-    {
-      "trait_type": "Body",
-      "value": "White"
-    },
-    {
-      "trait_type": "Nose",
-      "value": "Eagle"
-    },
-    {
-      "trait_type": "Facial",
-      "value": "Shakespeare Brown"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Punched"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Bald"
+      "trait_type": "Number",
+      "value": "3"
     }
   ],
-  "compiler": "HashLips Art Engine"
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
